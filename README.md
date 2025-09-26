@@ -26,21 +26,19 @@ Nicolas Loppin
 
 ---
 
-
 ⚠️ Ce projet est réalisé à titre personnel et n'engage en rien la Mairie de Perpignan.
 
 ---
 
 ## 🛠️ Points à améliorer et à ajouter
 
-| Point à améliorer/ajouter           | Statut      | Commentaire                         |
-|-------------------------------------|-------------|-------------------------------------|
-| Accessibilité (contraste, ARIA, etc.) | À faire     | Améliorer l'accès pour tous         |
-| Responsive sur mobile/tablette      | En cours    | Adapter toutes les pages            |
-| Ajout d'un moteur de recherche      | À faire     | Permettre une navigation rapide     |
-| Intégration d'un agenda interactif  | À faire     | Afficher les événements à venir     |
-| Optimisation des performances       | À faire     | Réduire le temps de chargement      |
-| Formulaires de contact dynamiques   | À faire     | Faciliter la prise de contact       |
-| Multilingue (FR/EN/CAT)             | À faire     | Ouvrir le site à plus d'usagers     |
-| Mise en place d'un CMS              | À étudier   | Pour faciliter la gestion du contenu|
-
+| Point à améliorer/ajouter             | Statut    | Commentaire                          |
+| ------------------------------------- | --------- | ------------------------------------ |
+| Accessibilité (contraste, ARIA, etc.) | À faire   | Améliorer l'accès pour tous          |
+| Responsive sur mobile/tablette        | En cours  | Adapter toutes les pages             |
+| Ajout d'un moteur de recherche        | À faire   | Permettre une navigation rapide      |
+| Intégration d'un agenda interactif    | À faire   | Afficher les événements à venir      |
+| Optimisation des performances         | À faire   | Réduire le temps de chargement       |
+| Formulaires de contact dynamiques     | À faire   | Faciliter la prise de contact        |
+| Multilingue (FR/EN/CAT)               | À faire   | Ouvrir le site à plus d'usagers      |
+| Mise en place d'un CMS                | À étudier | Pour faciliter la gestion du contenu |
